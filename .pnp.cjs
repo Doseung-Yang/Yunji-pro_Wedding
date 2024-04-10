@@ -44,6 +44,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-react", "virtual:2aff2f060f2eaa1aead584f0d02a59b8381a7b28d8b6bddf7e4be1c580835b71c3a94b22c2b990284cc5b13977a215325775767c8124c2a2bf5de73f08c081e1#npm:7.34.1"],\
           ["json-server", "npm:1.0.0-alpha.23"],\
           ["prettier", "npm:3.2.5"],\
+          ["process", "npm:0.11.10"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:2aff2f060f2eaa1aead584f0d02a59b8381a7b28d8b6bddf7e4be1c580835b71c3a94b22c2b990284cc5b13977a215325775767c8124c2a2bf5de73f08c081e1#npm:18.2.0"],\
           ["react-scripts", "virtual:2aff2f060f2eaa1aead584f0d02a59b8381a7b28d8b6bddf7e4be1c580835b71c3a94b22c2b990284cc5b13977a215325775767c8124c2a2bf5de73f08c081e1#npm:5.0.1"],\
@@ -15751,6 +15752,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["process", [\
+      ["npm:0.11.10", {\
+        "packageLocation": "../../../AppData/Local/Yarn/Berry/cache/process-npm-0.11.10-aeb3b641ae-10c0.zip/node_modules/process/",\
+        "packageDependencies": [\
+          ["process", "npm:0.11.10"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["process-nextick-args", [\
       ["npm:2.0.1", {\
         "packageLocation": "../../../AppData/Local/Yarn/Berry/cache/process-nextick-args-npm-2.0.1-b8d7971609-10c0.zip/node_modules/process-nextick-args/",\
@@ -18802,6 +18812,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-react", "virtual:2aff2f060f2eaa1aead584f0d02a59b8381a7b28d8b6bddf7e4be1c580835b71c3a94b22c2b990284cc5b13977a215325775767c8124c2a2bf5de73f08c081e1#npm:7.34.1"],\
           ["json-server", "npm:1.0.0-alpha.23"],\
           ["prettier", "npm:3.2.5"],\
+          ["process", "npm:0.11.10"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:2aff2f060f2eaa1aead584f0d02a59b8381a7b28d8b6bddf7e4be1c580835b71c3a94b22c2b990284cc5b13977a215325775767c8124c2a2bf5de73f08c081e1#npm:18.2.0"],\
           ["react-scripts", "virtual:2aff2f060f2eaa1aead584f0d02a59b8381a7b28d8b6bddf7e4be1c580835b71c3a94b22c2b990284cc5b13977a215325775767c8124c2a2bf5de73f08c081e1#npm:5.0.1"],\
