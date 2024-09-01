@@ -9,7 +9,8 @@ yarn dlx @yarnpkg/sdks vscode 입력 부탁드립니다 :D
 
 
 # OOO과 이OO의 결혼식 모바일 청첩장
-![date](https://img.shields.io/date/1558189800.svg?style=for-the-badge)
+![wedding_05](https://github.com/user-attachments/assets/b78bdb46-c31f-4ebe-b6d1-bbcac1475f88)
+
 
 이 repository는 결혼식 초대를 위한 모바일청첩장입니다. 이 repository가 마음에 드신다면 star과 fork 많이 많이 부탁드립니다. 축하 메시지는 pull request로 받습니다. :)
 
