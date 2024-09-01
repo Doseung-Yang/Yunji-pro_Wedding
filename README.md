@@ -9,10 +9,10 @@ yarn dlx @yarnpkg/sdks vscode 입력 부탁드립니다 :D
 
 
 # OOO과 이OO의 결혼식 모바일 청첩장
+![wedding_05](https://github.com/user-attachments/assets/836008ff-e9a6-406d-99a1-ca256e2f767d)
+
+
 ![wedding_04](https://github.com/user-attachments/assets/d1202bf3-730b-4390-a1db-667253533a30)
-
-
-![메인사진](https://github.com/AndersonChoi/wedding-card/raw/master/docs/images/pic2.jpeg)
 
 ## 예식정보
 
